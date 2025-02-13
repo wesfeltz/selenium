@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class Selenium {
+public class SeleniumSuite {
     public static void main(String[] args) {
     	 // Setup WebDriverManager to automatically handle the ChromeDriver installation
         WebDriverManager.chromedriver().setup();
